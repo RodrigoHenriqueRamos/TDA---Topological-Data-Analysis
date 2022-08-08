@@ -5,6 +5,7 @@ Jupyter Notebooks covering TDA - Topological Data Analysis: Fundamentals, Visual
 Considerations and extensions concerning the material available in the course <a href="https://raphaeltinarrage.github.io/EMAp.html">"EMAp Summer Course"</a>
 <ol>
   <li><a href="https://github.com/RodrigoHenriqueRamos/TDA---Topological-Data-Analysis/blob/main/Lesson%204%20-%20Ploting%20Faces.ipynb">Lesson 4 - Ploting Faces</a></li>  
+  <li><a href="https://github.com/RodrigoHenriqueRamos/TDA---Topological-Data-Analysis/blob/main/Lesson%208%20-%20Betti%20Curve%20on%20Networks.ipynb">Lesson 8 - Betti Curve on Networks</a></li>  
 </ol>
 
 ### Persistence Homology (GUDHI) and Networks (NetworkX)
