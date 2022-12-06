@@ -15,6 +15,7 @@ From network to distance matrix to persistance homology.
   <li><a href="https://github.com/RodrigoHenriqueRamos/TDA---Topological-Data-Analysis/blob/main/From%20Network%20(NetworkX)%20to%20Persistent%20Homology%20(PH)%20-%20Alpha%20Complexes.ipynb">From Network to Persistent Homology using Alpha Complex</a></li>  
   <li><a href="https://github.com/RodrigoHenriqueRamos/TDA---Topological-Data-Analysis/blob/main/Comparison%20Between%20Rips%20and%20Alpha%20Complexes.pdf">Comparison between Persistent Homology using Vietoris-Rips and Alpha Complex</a></li>
   <li><a href="https://github.com/RodrigoHenriqueRamos/TDA---Topological-Data-Analysis/blob/main/From%20Network%20(NetworkX)%20to%20Persistent%20Homology%20(PH)%20-%20Rips%20-%20Bottleneck%20Distance.ipynb">Calculating distance between Persistent Homology</a></li> 
+  <li><a href="https://github.com/RodrigoHenriqueRamos/TDA---Topological-Data-Analysis/blob/main/From%20Network%20(NetworkX)%20to%20Persistent%20Homology%20(PH)%20-%20Rips%20-%20Custom%20BarcodePloting.ipynb">From Network (NetworkX) to Persistent Homology (PH) - Custom Plotting</a></li> 
 </ol>
 
 ### Others - Toy examples, refatoration and etc... (Pt-BR)
