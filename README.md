@@ -25,8 +25,6 @@ From network to distance matrix to persistance homology.
   </li>
 </ol>
 
-Clustering with PH - wasserstein distance and dendogram
-
 ### Others - Toy examples, refatoration and etc... (Pt-BR)
 <ol>
   <li><a href="https://github.com/RodrigoHenriqueRamos/TDA---Topological-Data-Analysis/blob/main/1%20-%20Refatora%C3%A7%C3%A3o%20da%20aula%204.ipynb">Refatoração da aula 4</a></li>  
