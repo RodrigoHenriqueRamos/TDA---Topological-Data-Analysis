@@ -18,6 +18,15 @@ From network to distance matrix to persistance homology.
   <li><a href="https://github.com/RodrigoHenriqueRamos/TDA---Topological-Data-Analysis/blob/main/From%20Network%20(NetworkX)%20to%20Persistent%20Homology%20(PH)%20-%20Rips%20-%20Custom%20BarcodePloting.ipynb">From Network (NetworkX) to Persistent Homology (PH) - Custom Plotting</a></li> 
 </ol>
 
+### Clustering with Persistence Homology
+<ol>
+  <li>
+    <a href="https://github.com/RodrigoHenriqueRamos/TDA---Topological-Data-Analysis/blob/main/Clustering%20with%20PH%20-%20wasserstein%20distance%20and%20dendogram.ipynb">Wasserstein distance and Dendogram<a/>
+  </li>
+</ol>
+
+Clustering with PH - wasserstein distance and dendogram
+
 ### Others - Toy examples, refatoration and etc... (Pt-BR)
 <ol>
   <li><a href="https://github.com/RodrigoHenriqueRamos/TDA---Topological-Data-Analysis/blob/main/1%20-%20Refatora%C3%A7%C3%A3o%20da%20aula%204.ipynb">Refatoração da aula 4</a></li>  
